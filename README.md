@@ -14,6 +14,7 @@
         </tr>
     </table>
 </body>
+
 ## Kesimpulan dari kode yang telah Anda berikan adalah sebagai berikut:
 1. Aplikasi ini merupakan aplikasi berita sederhana yang menggunakan Flutter.
 2. Aplikasi memiliki halaman utama (`NewsHomePage`) yang menampilkan daftar berita dalam bentuk `ListView.builder`.
